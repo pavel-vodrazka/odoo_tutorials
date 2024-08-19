@@ -1,0 +1,13 @@
+{
+    "python.languageServer": "None",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.autoComplete.extraPaths": [
+        "/home/vodrazka/odoo/odoo",
+        "/home/vodrazka/odoo/odoo/addons"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/vodrazka/odoo/odoo",
+        "/home/vodrazka/odoo/odoo/addons"
+    ]
+}
